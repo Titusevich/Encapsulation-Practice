@@ -22,5 +22,9 @@ public class Main {
 
         view.getOutput(empFullName + empPosition + empEmail +
                 empPhone + empAge);
+
+        count++;
+        System.out.print(count + ") ");
+        Car audi = new Car();
     }
 }
