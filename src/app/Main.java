@@ -26,5 +26,6 @@ public class Main {
         count++;
         System.out.print(count + ") ");
         Car audi = new Car();
+        audi.start();
     }
 }
